@@ -1,4 +1,3 @@
 *.svg
 peptide_data_report.txt
-/.ipynb_checkpoints
-/limelight-data
+.ipynb_checkpoints
